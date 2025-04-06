@@ -1,0 +1,27 @@
+Thread with program ID 0 and thread ID 139628515849792 acquired lock
+Adding thread with ID: 139628507457088 to level 0
+Adding thread with ID: 139628499064384 to level 0
+Thread with program ID 0 and thread ID 139628515849792 releasing lock
+Adding thread with ID: 139628515849792 to level 1
+Thread with program ID 1 and thread ID 139628507457088 acquired lock
+Thread with program ID 1 and thread ID 139628507457088 releasing lock
+Adding thread with ID: 139628507457088 to level 2
+Thread with program ID 2 and thread ID 139628499064384 acquired lock
+Thread with program ID 2 and thread ID 139628499064384 releasing lock
+Adding thread with ID: 139628499064384 to level 3
+Thread with program ID 0 and thread ID 139628515849792 acquired lock
+Thread with program ID 0 and thread ID 139628515849792 releasing lock
+Adding thread with ID: 139628515849792 to level 2
+Thread with program ID 1 and thread ID 139628507457088 acquired lock
+Thread with program ID 1 and thread ID 139628507457088 releasing lock
+Adding thread with ID: 139628507457088 to level 4
+Thread with program ID 0 and thread ID 139628515849792 acquired lock
+Thread with program ID 0 and thread ID 139628515849792 releasing lock
+Thread with program ID 2 and thread ID 139628499064384 acquired lock
+Thread with program ID 2 and thread ID 139628499064384 releasing lock
+Adding thread with ID: 139628499064384 to level 6
+Thread with program ID 1 and thread ID 139628507457088 acquired lock
+Thread with program ID 1 and thread ID 139628507457088 releasing lock
+Thread with program ID 2 and thread ID 139628499064384 acquired lock
+Thread with program ID 2 and thread ID 139628499064384 releasing lock
+Threads terminated. Total duration is: 18.0049 seconds.
